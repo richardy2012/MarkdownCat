@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarkdownCat/FileTableViewController.swift"
+            timestampString = "482214571.46806"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "loadArticles()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarkdownCat/FileTableViewController.swift"
+            timestampString = "477831659.226348"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarkdownCat.FileTableViewController.init (MarkdownCat.FileTableViewController.Type)(style : __C.UITableViewStyle) -&gt; MarkdownCat.FileTableViewController"
+                  moduleName = "MarkdownCat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ShengJie/Documents/Swift/MarkdownCat/MarkdownCat/FileTableViewController.swift"
+                  timestampString = "477832031.354151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarkdownCat.FileTableViewController.init (MarkdownCat.FileTableViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; MarkdownCat.FileTableViewController"
+                  moduleName = "MarkdownCat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ShengJie/Documents/Swift/MarkdownCat/MarkdownCat/FileTableViewController.swift"
+                  timestampString = "477832031.354392"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarkdownCat.FileTableViewController.init (MarkdownCat.FileTableViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;MarkdownCat.FileTableViewController&gt;"
+                  moduleName = "MarkdownCat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ShengJie/Documents/Swift/MarkdownCat/MarkdownCat/FileTableViewController.swift"
+                  timestampString = "477832031.354541"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarkdownCat/EditViewController.swift"
+            timestampString = "482215251.015969"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "prepareForSegue(_:sender:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
