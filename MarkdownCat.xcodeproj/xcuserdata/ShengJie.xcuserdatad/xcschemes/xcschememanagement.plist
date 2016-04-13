@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>MarkdownCatExtension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>344B4C851C7550BC003B7247</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>346E29EA1C81736C00A3EA32</key>
 		<dict>
 			<key>primary</key>
 			<true/>
